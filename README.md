@@ -8,3 +8,5 @@ On the issue of whether inheritance, encapsulation, interfaces, or traits should
 * Some would say that you should have an **interface** for every class you have, and then typehint on the interface every time you need the class. I only agree with this if you are writing tests for your code (which is a good practice of course) because it allows the class to be mocked easily. If you're not writing tests, then you may not necessarily need an interface for every class.
 
 I've been greatly influenced by the writings of [Tom Butler](http://r.je/) and those he has referenced.
+
+The current code structure is preliminary at best and would almost certainly evolve as I develop it further.
