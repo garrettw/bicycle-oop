@@ -31,6 +31,16 @@ abstract class Wheel
         $this->size      = $size;
     }
 
+    public function tire(): Tire
+    {
+        return $this->tire;
+    }
+
+    public function innerTube(): InnerTube
+    {
+        return $this->innerTube;
+    }
+
     public function size(): int
     {
         return $this->size;
