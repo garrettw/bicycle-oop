@@ -1,0 +1,17 @@
+{
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/garrettw/aspire-dic"
+        }
+    ],
+    "require": {
+        "garrettw/aspire-dic": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Bicycle\\": "src/",
+            "": "vendor/"
+        }
+    }
+}
