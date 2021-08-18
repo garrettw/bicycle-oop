@@ -1,4 +1,4 @@
-I've used my own DIC library below as I'm pretty big on getting that aspect right. It's forked from one made by another guy which I contributed to in the past.
+I've used my own DIC library as I'm pretty big on getting that aspect right. It's forked from one made by another guy which I contributed to in the past.
 
 On the issue of whether inheritance, encapsulation, interfaces, or traits should be used:
 
